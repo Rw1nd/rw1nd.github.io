@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jian Fang</title>
+  
+  
+  <link href="https://rw1nd.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://rw1nd.github.io/"/>
+  <updated>2025-02-18T11:47:42.000Z</updated>
+  <id>https://rw1nd.github.io/</id>
+  
+  <author>
+    <name>Jian Fang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>main</title>
+    <link href="https://rw1nd.github.io/2025/02/18/index/"/>
+    <id>https://rw1nd.github.io/2025/02/18/index/</id>
+    <published>2025-02-18T11:41:03.000Z</published>
+    <updated>2025-02-18T11:47:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>I am a second-year Ph.D. student in <a href="https://pl.cs.pku.edu.cn/">Programming Language Lab (PLL)</a> at Peking University. I am advised by Prof. Yingfei Xiong. I am interested in automated theory proving, program verfication and program synthesis.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;I am a second-year Ph.D. student in &lt;a href=&quot;https://pl.cs.pku.edu.cn/&quot;&gt;Programming Language Lab (PLL)&lt;/a&gt; at Peking University. I am adv</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
